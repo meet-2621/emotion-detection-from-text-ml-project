@@ -23,7 +23,7 @@ This project predicts human emotions (joy, anger, sadness, fear, love, surprise)
 ## ⚙️ Steps to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/emotion-detection-from-text-ml-project.git
+   git clone https: https://github.com/meet-2621/emotion-detection-from-text-ml-project
 Open the notebook:- 🧠 Project - Emotion Detection from Text
 Download and extract the dataset from Kaggle (train.txt, test.txt, val.txt)
 
